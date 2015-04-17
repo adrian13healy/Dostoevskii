@@ -1,0 +1,209 @@
+body{
+  background-image: url("/img/seamless_paper_texture.png");
+  font-family: 'PT Sans Caption', sans-serif;
+}
+.ForumFont{
+  font-family: 'Forum', cursive;
+}
+.imgMod{
+  padding-top: 35px;
+  border-top: 1px solid grey;
+}
+.imgMod img{
+  padding-right: 24px;
+  padding-bottom: 40px;
+}
+.footerMod{
+  background-color: rgb(243,243,243);
+  border-top: 1px solid grey;
+  padding-top: 10px;
+  
+}
+.boxShadowed{
+  -webkit-box-shadow: 0px -1px 19px 0px rgba(54, 50, 50, 0.51);
+  -moz-box-shadow: 0px -1px 19px 0px rgba(54, 50, 50, 0.51);
+  box-shadow: 0px -1px 19px 0px rgba(54, 50, 50, 0.51);
+}
+.htextsh{
+  text-shadow: 1px 4px 30px 5px rgba(54, 50, 50, 0.51);
+}
+.ulMod li span:hover{
+  color: red;
+}
+.ulMod{
+  
+}
+.logoMenu{
+  margin-left: -154px;
+  margin-right: -84px;
+}
+.logoMenu li{
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.logoMenu li a{
+  text-decoration: none;
+}
+/*.logoMenu li a :hover{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}*/
+/*.active a{
+  border-top: 2px solid black!important;
+  border-bottom: 2px solid black!important;
+}*/
+.logoMenu li h3{
+  color: rgb(54,54,54)!important;  
+}
+.socialGroup{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.socialGroup img{
+  width: 64px;
+}
+.socialGroup a{
+  vertical-align: middle;
+}
+.logoText h1{
+}
+.logoSearch .form-control{
+  width: 16%!important;
+  position: absolute;
+  margin-left: 950px;
+  margin-top: -114px;
+}
+.footerMod h4{
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+.books{
+  background-image: url("/img/tweed.png");
+  padding: 15px;
+}
+.books .downloadInfo .grades{
+  padding: 9px;
+}
+.grades .star{
+  background-image: url("/img/bookmark45.png");
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
+.bookInfo{
+  font-family: 'PT Sans Caption', sans-serif;
+}
+.bookInfo h2{
+  color: white;
+}
+
+.bookInfo .shortInfo{
+  background-color: white;
+  padding: 15px;  
+}
+
+.downloadInfo{
+  padding-top: 10px;
+} 
+
+.bookInfo .descriptionInfo{
+  border-right: 1px solid grey;
+}
+.turquoise-flat-button {
+  position: relative;
+  vertical-align: top;
+  width: 228px;
+  height: 40px;
+  padding: 0;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  background: #1abc9c;
+  border: 0;
+  border-bottom: 2px solid #12ab8d;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 -2px #12ab8d;
+  box-shadow: inset 0 -2px #12ab8d;
+  margin-right: 8px;
+}
+
+.orange-flat-button {
+  position: relative;
+  vertical-align: top;
+  width: 228px;
+  height: 40px;
+  padding: 0;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  background: #f39c12;
+  border: 0;
+  border-bottom: 2px solid #e8930c;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 -2px #e8930c;
+  box-shadow: inset 0 -2px #e8930c;
+}
+.nulled {
+  padding-right: 0px!important;
+  padding-left: 0px!important;
+}
+.textContainer{
+  background-color: white;
+}
+.commentBlock{
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+.commentBlock .offset-1{
+  margin-left: 25px;
+}
+.commentBlock .offset-2{
+  margin-left: 50px;
+}
+.borderlinecolor-orange{
+  border-left: 4px solid rgb(243,156,18);
+  padding-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.borderlinecolor-green{
+  border-left: 4px solid rgb(26,188,156);
+  padding-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.avatar{
+  position: absolute;
+}
+.avatar img{
+  width: 40px;
+  height: 40px;
+}
+.information{
+margin-left: 50px;
+}
+.information p{
+color: grey;
+}
+.custom-pagination a{
+  color: rgb(26,188,156)!important;
+  border: none!important;
+}
+.custom-pagination a:hover{
+  color: rgb(26,188,156)!important;
+  background-color: rgb(243,243,243)!important;
+}
+.custom-pagination .active a{
+  color: white!important;
+  background-color: rgb(26,188,156)!important;
+}
